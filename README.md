@@ -6,8 +6,11 @@ AI Proof 30 課堂上要用到的檔案，都放在這裡。影片裡說「檔�
 
 | 堂數 | 檔案 | 拿到之後 |
 |---|---|---|
+| 第 4 堂 | `build-agent.md`，在課程平台第 4 堂的附件下載 | 開一個工作資料夾，在 Claude Code 按住 shift 把檔案拖進對話框，打「開始」。 |
 | 第 6 堂 | [三年後的星期二（`three-year-tuesday`）](lesson-06/three-year-tuesday/SKILL.md) | 丟進 Claude Code，跟它說「把這個存進我的 skills 資料夾」。 |
 | 第 8 堂 | [五人會議（`llm-council`）](lesson-08/llm-council/SKILL.md) | 先丟進 Claude 網頁版驗貨，再把整個 `llm-council` 資料夾放進 `.claude/skills`，跟第 5 堂晨間簡報存的是同一個地方。 |
+
+第 1、2、3、5、7、9 堂沒有檔案要下載，跟著影片操作就好。
 
 技能裝完，一定要**完全關掉 VS Code 再打開**，技能才會生效。Mac 按 Cmd＋Q；Windows 把 VS Code 的視窗全部關掉。
 
