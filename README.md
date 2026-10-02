@@ -9,6 +9,7 @@ AI Proof 30 課堂上要用到的檔案，都放在這裡。影片裡說「檔�
 | 第 4 堂 | `build-agent.md`，在課程平台第 4 堂的附件下載 | 開一個工作資料夾，在 Claude Code 按住 shift 把檔案拖進對話框，打「開始」。 |
 | 第 6 堂 | [三年後的星期二（`three-year-tuesday`）](lesson-06/three-year-tuesday/SKILL.md) | 丟進 Claude Code，跟它說「把這個存進我的 skills 資料夾」。 |
 | 第 8 堂 | [五人會議（`llm-council`）](lesson-08/llm-council/SKILL.md) | 先丟進 Claude 網頁版驗貨，再把整個 `llm-council` 資料夾放進 `.claude/skills`，跟第 5 堂晨間簡報存的是同一個地方。 |
+| 第 11 堂 | [語氣檔兩個指令：`voice.md`、`update-voice.md`](lesson-11/commands/)，另有[驗貨指令](lesson-11/驗貨-指令.txt) | 兩個檔放進工作資料夾的 `.claude/commands/`，完全關掉 VS Code 再打開，打 `/voice` 就會出現在選單。選單沒有 `/voice` 的話，改用 [`skills-fallback`](lesson-11/skills-fallback/) 裡的兩個資料夾，整個放進 `.claude/skills`。做語氣檔之前，先用驗貨指令叫它寫一封求職信存起來，等一下要對比。 |
 
 第 1、2、3、5、7、9 堂沒有檔案要下載，跟著影片操作就好。
 
