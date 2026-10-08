@@ -1,0 +1,6 @@
+用這份簡報 PDF 當品牌檔，建一套設計系統。色票跟字型如下，以這五行為準，PDF 裡抓到的當補充：
+主色磚橘 #C9542F（深階 #A8431F），輔色珊瑚 #E97B5C，點綴黃 #F5C842。
+底色淺杏 #F4D9CC，卡片杏白 #FAE8DD，邊框灰杏 #D4B8A8。
+文字暖黑 #1A1410，次要 #4A3F38，弱化 #7A6055。黑色一律用暖黑，不用純黑。
+標題字 Bricolage Grotesque 加 Noto Sans TC，內文 Noto Sans TC。
+logo 是文字：磚橘色的 @ 加一個空格加小寫 career.goglobal。

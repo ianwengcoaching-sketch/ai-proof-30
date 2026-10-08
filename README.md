@@ -11,8 +11,9 @@ AI Proof 30 課堂上要用到的檔案，都放在這裡。影片裡說「檔�
 | 第 8 堂 | [五人會議（`llm-council`）](lesson-08/llm-council/SKILL.md) | 先丟進 Claude 網頁版驗貨，再把整個 `llm-council` 資料夾放進 `.claude/skills`，跟第 5 堂晨間簡報存的是同一個地方。 |
 | 第 10 堂 | [Scout 示範包](lesson-10/Scout示範包/)：白板圖、我那段 brief 的全文、三個技能的規格、組合出來的求職者資料（虛構，不是真人） | 整個資料夾的內容放進你的工作資料夾，`01-我的素材/`、`02-目標公司/`、`技能規格.md` 的路徑跟 brief 裡寫的一致。brief 照著改成你自己的，求職者資料換成你的履歷。 |
 | 第 11 堂 | [語氣檔兩個指令：`voice.md`、`update-voice.md`](lesson-11/commands/)，另有[驗貨指令](lesson-11/驗貨-指令.txt) | 兩個檔放進工作資料夾的 `.claude/commands/`，完全關掉 VS Code 再打開，打 `/voice` 就會出現在選單。選單沒有 `/voice` 的話，改用 [`skills-fallback`](lesson-11/skills-fallback/) 裡的兩個資料夾，整個放進 `.claude/skills`。做語氣檔之前，先用驗貨指令叫它寫一封求職信存起來，等一下要對比。 |
+| 第 14 堂 | [Claude Design 練習包](lesson-14/)：Kelly 的履歷與 JD（虛構）、Notion 風格檔、四段 demo 的指令 | 整個資料夾下載，影片裡附檔的地方從這裡拿。色票換成你自己的，履歷換成你的。只貼清單網址會卡住，風格檔一定要附上。 |
 
-第 1、2、3、5、7、9 堂沒有檔案要下載，跟著影片操作就好。
+第 1、2、3、5、7、9、12、13 堂沒有檔案要下載，跟著影片操作就好。
 
 技能裝完，一定要**完全關掉 VS Code 再打開**，技能才會生效。Mac 按 Cmd＋Q；Windows 把 VS Code 的視窗全部關掉。
 

@@ -1,0 +1,15 @@
+Marketing Automation Specialist | Nordwind Mobility | Amsterdam
+
+Nordwind Mobility runs a shared e-scooter and e-bike platform across 14 European cities. We are hiring a Marketing Automation Specialist to own our HubSpot instance and lifecycle programs for B2B fleet customers.
+
+What you will do
+- Own HubSpot: workflows, lead scoring, segmentation and reporting
+- Design lifecycle email journeys from trial to renewal for fleet operators
+- Partner with Sales to define MQL and SQL stages and keep the handoff clean
+- Build dashboards that show pipeline contribution, not just opens and clicks
+
+What we look for
+- 3+ years in B2B marketing automation, HubSpot certified preferred
+- Proven MQL-to-SQL improvement you can talk through with numbers
+- Comfortable with GA4 and Looker Studio
+- English fluent; Dutch not required. Visa sponsorship (HSM) available

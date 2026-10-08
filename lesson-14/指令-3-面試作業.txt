@@ -1,0 +1,1 @@
+用 github.com/VoltAgent/awesome-claude-design 這個清單裡 Notion 那一套風格，白底、黑字、少色、乾淨。做四頁面試簡報，講者是 Kelly Lin，職缺是 Nordwind Mobility 的 Marketing Automation Specialist，主題：我進來的前 90 天。內容只能用我附的履歷跟 JD 裡的資訊，不要編任何經歷或數字。不要放 Nordwind 的 logo。每頁一個標題、三個重點以內。Notion 那套的風格檔我已經附上，檔名 Notion-DESIGN.md，直接用這個檔，不用去開那個連結。
